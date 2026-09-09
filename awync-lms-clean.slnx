@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/Awync.LMS.Application/Awync.LMS.Application.csproj" />
+    <Project Path="src/Core/Awync.LMS.Domain/Awync.LMS.Domain.csproj" />
+  </Folder>
+</Solution>
